@@ -1,0 +1,19 @@
+.logo, h1{
+    height: 50px;
+    margin-top: 20px;
+}
+
+.container-fluid{
+    margin: 10px;
+}
+
+.navbar{
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.navbar:hover{
+    transition: all 0.6s;
+    transform: scale(1.1);
+
+}
